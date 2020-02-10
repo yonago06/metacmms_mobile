@@ -10,7 +10,7 @@ function App() {
         <div className="row row-header bg-success">
           <div className="col-lg">
               <h2>METACMMS</h2>
-              <span>Equipos disponibles siempre </span>
+              <span>Equipos disponibles siempre 2</span>
 
           </div>
           <div className="col-lg">
